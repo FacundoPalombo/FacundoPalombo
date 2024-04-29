@@ -2,7 +2,7 @@
 
 <h2> Welcome to my github </h2>
 
-<img src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png>
+<img style="width: 300px; float: right;" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
 
 <h3>I'm currently learning</h3>
 <div style="display:flex; flex-direction: row; align-items: center;justify-content: start;gap: 8px; margin-left: -8px; margin-bottom: 5px;">
