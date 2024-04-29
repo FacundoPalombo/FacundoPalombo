@@ -2,7 +2,7 @@
 
 <h2> Welcome to my github </h2>
 <div>
-  <img align="right" width="300px" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
+  <img align="right" width="270px" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
   <p>I'm a Fullstack developer who loves the world of javascript, and those crazy stuffs. I have many more interests on the world of software development like game dev, scripting, automation and so much more.</p>
   <p>I love cooking, im also an amateur sushi-man 🍣 and a barista ☕. I love to do trekking over the misty mountains ⛰️ <yeah, im a 🧙‍♂️LOTR Fan>, i also love videogames, my favorite games are RPG's, MMORPG's, FPS, and so much more</p>
 </div>
