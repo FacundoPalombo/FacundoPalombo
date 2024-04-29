@@ -1,8 +1,11 @@
 <h1 style="text-align: center">Hi, im Facundo </h1>
 
 <h2> Welcome to my github </h2>
-
-<img style="width: 300px; float: right;" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
+<div>
+  <img align="right" width="300px" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
+  <p>I'm a Fullstack developer who loves the world of javascript, and those crazy stuffs. I have many more interests on the world of software development like game dev, scripting, automation and so much more.</p>
+  <p>I love cooking, im also an amateur sushi-man 🍣 and a barista ☕. I love to do trekking over the misty mountains ⛰️ <yeah, im a 🧙‍♂️LOTR Fan>, i also love videogames, my favorite games are RPG's, MMORPG's, FPS, and so much more</p>
+</div>
 
 <h3>I'm currently learning</h3>
 <div style="display:flex; flex-direction: row; align-items: center;justify-content: start;gap: 8px; margin-left: -8px; margin-bottom: 5px;">
