@@ -2,7 +2,6 @@
 
 <h2> Welcome to my github </h2>
 <div>
-  <img align="right" width="270px" src=https://github.com/FacundoPalombo/FacundoPalombo/blob/main/.assets/what-a-picardy-troesma.png >
   <p>I'm a Fullstack developer who loves the world of javascript, and those crazy stuffs. I have many more interests on the world of software development like game dev, scripting, automation and so much more.</p>
   <p>I love cooking, im also an amateur sushi-man 🍣 and a barista ☕. I love to do trekking over the misty mountains ⛰️ <yeah, im a 🧙‍♂️LOTR Fan>, i also love videogames, my favorite games are RPG's, MMORPG's, FPS, and so much more</p>
 </div>
@@ -23,12 +22,14 @@
    alt=typescript  />
    <img src=https://img.shields.io/badge/Node.js-44883e?logo=node.js&style=for-the-badge&logoColor=white
    alt=node.js  />
+   <img src=https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=black
+   alt=React.js  />
+   <img src=https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white
+   alt=angular  />
     <img src=https://img.shields.io/badge/Javascript-f7df1e?logo=Javascript&style=for-the-badge&logoColor=black
    alt=Javascript  />
    <img src=https://img.shields.io/badge/next.js-000?logo=next.js&style=for-the-badge&logoColor=white
    alt=next.js  />
-   <img src=https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=black
-   alt=React.js  />
 </div>
 
 
@@ -39,8 +40,6 @@
    alt=typescript  />
    <img src=https://img.shields.io/badge/three.js-44883e?logo=three.js&style=for-the-badge&logoColor=white
    alt=three.js  />
-   <img src=https://img.shields.io/badge/Angular-0F0F11?logo=angular&style=for-the-badge&logoColor=white
-   alt=angular  />
     <img src=https://img.shields.io/badge/Astro-BC52EE?logo=astro&style=for-the-badge&logoColor=white
    alt=astro  />
 </div>
