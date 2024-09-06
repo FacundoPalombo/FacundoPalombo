@@ -72,8 +72,11 @@
 
 <div style="display:flex; flex-direction: row; align-items: center;justify-content: start;gap: 8px; margin-left: -8px; margin-bottom: 5px;">
 
+  <a href="https://www.linkedin.com/in/facundopalombo/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-1DA1F2?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+
   <a href="https://twitter.com/PalomboFacundo" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter  />
+  <img src=https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=x&logoColor=white alt=twitter  />
 
   <a href="https://github.com/facundoPalombo" target="_blank">
   <img src=https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white alt=github  />
