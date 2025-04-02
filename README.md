@@ -10,8 +10,8 @@
 <div style="display:flex; flex-direction: row; align-items: center;justify-content: start;gap: 8px; margin-left: -8px; margin-bottom: 5px;">
   <img src=https://img.shields.io/badge/rust-000?logo=rust&style=for-the-badge&logoColor=white
    alt=rust  />
-   <img src=https://img.shields.io/badge/playwright-2EAD33?logo=playwright&style=for-the-badge&logoColor=white
-   alt=playwright  />
+  <img src=https://img.shields.io/badge/aws-ff9900?logo=amazonwebservices&style=for-the-badge&logoColor=white&labelColor=black&color=ff9900
+   alt=aws  />
 </div>
 
 
@@ -30,6 +30,8 @@
    alt=Javascript  />
    <img src=https://img.shields.io/badge/next.js-000?logo=next.js&style=for-the-badge&logoColor=white
    alt=next.js  />
+   <img src=https://img.shields.io/badge/playwright-2EAD33?logo=playwright&style=for-the-badge&logoColor=white
+   alt=playwright  />
 </div>
 
 
